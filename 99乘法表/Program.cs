@@ -14,7 +14,7 @@ namespace _99乘法表
                 {
                     Console.WriteLine(i + "*" + j + "=" + i * j );
                 }
-                Console.Write("\n");
+                Console.Write("\r\n");
             }
         }
     }
